@@ -7,11 +7,6 @@ Original file is located at
     https://colab.research.google.com/drive/1EcRaV68wI31jB-BHeywXlEgVkSiKiD0Z
 """
 
-# Instalación de las librerías necesarias (si no están instaladas aún)
-!pip install chatterbot
-!pip install chatterbot_corpus
-!pip install requests
-
 # Importación de las librerías necesarias
 from chatterbot import ChatBot
 from chatterbot.trainers import ListTrainer
