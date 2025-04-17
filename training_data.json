@@ -1,0 +1,82 @@
+[
+  {
+    "pregunta": "¿Qué servicios ofrecen?",
+    "respuesta": "Ofrecemos servicios de venta de chatbots de IA personalizados y análisis de datos. Además, brindamos soporte continuo para la integración y mantenimiento de las soluciones implementadas."
+  },
+  {
+    "pregunta": "¿Qué son los chatbots de IA?",
+    "respuesta": "Los chatbots de IA son sistemas automatizados que pueden interactuar con los usuarios de manera inteligente, utilizando procesamiento de lenguaje natural para entender y responder preguntas de manera eficiente."
+  },
+  {
+    "pregunta": "¿Cómo puedo adquirir un chatbot?",
+    "respuesta": "Puedes adquirir un chatbot a través de nuestra página web o contactándonos directamente para una consulta personalizada. Nuestro equipo de profesionales trabajará contigo para crear la solución que mejor se adapte a tus necesidades."
+  },
+  {
+    "pregunta": "¿Qué tipo de análisis de datos realizan?",
+    "respuesta": "Realizamos análisis de datos en tiempo real, visualización de datos y predicción mediante inteligencia artificial. Nuestro enfoque está en ayudar a las empresas a tomar decisiones basadas en datos confiables y en tiempo real."
+  },
+  {
+    "pregunta": "¿Puedo personalizar mi chatbot?",
+    "respuesta": "Sí, nuestros chatbots son completamente personalizables. Desde el tono de la conversación hasta las funcionalidades específicas que necesitas para tu negocio."
+  },
+  {
+    "pregunta": "¿Tienen soporte para los productos?",
+    "respuesta": "Sí, ofrecemos soporte técnico 24/7 para todos nuestros productos de IA y chatbots. Nuestro equipo de expertos está disponible para resolver cualquier duda o incidencia que pueda surgir."
+  },
+  {
+    "pregunta": "¿Puedo integrar mi chatbot con otros servicios?",
+    "respuesta": "Sí, nuestros chatbots pueden integrarse con plataformas como Slack, Facebook Messenger, WhatsApp, Telegram y muchas otras. Contamos con un equipo de desarrolladores que se encargará de la integración de manera personalizada."
+  },
+  {
+    "pregunta": "¿Qué tecnologías utilizan?",
+    "respuesta": "Utilizamos tecnologías avanzadas como Python, TensorFlow, Keras, y APIs de procesamiento de lenguaje natural, entre otras. Nuestros expertos se encargan de seleccionar las herramientas más adecuadas para cada caso."
+  },
+  {
+    "pregunta": "¿Cuál es el precio de un chatbot?",
+    "respuesta": "El precio depende de las características y funcionalidades que desees. Ofrecemos paquetes básicos y premium. Puedes pedir una cotización personalizada a través de nuestra página web o contactar directamente a nuestro equipo de ventas."
+  },
+  {
+    "pregunta": "¿Cómo funciona el análisis de datos en tiempo real?",
+    "respuesta": "Nuestro sistema de análisis de datos en tiempo real recoge y procesa datos instantáneamente desde diversas fuentes, generando insights que pueden ser utilizados para tomar decisiones informadas al instante."
+  },
+  {
+    "pregunta": "¿Dónde están ubicados?",
+    "respuesta": "Nuestra empresa está ubicada en Ensenada, Baja California, México. Desde aquí, servimos a clientes de todo México y el mundo, ofreciendo soluciones tecnológicas de alta calidad."
+  },
+  {
+    "pregunta": "¿Cuántos años tienen de experiencia?",
+    "respuesta": "Contamos con más de 5 años de experiencia en la industria de la inteligencia artificial y el análisis de datos, con un equipo de profesionales altamente capacitados en diversas áreas de la tecnología."
+  },
+  {
+    "pregunta": "¿Por qué debo elegirlos?",
+    "respuesta": "Somos un equipo de profesionales comprometidos con ofrecer soluciones personalizadas y de alta calidad. Nos enfocamos en entender las necesidades de cada cliente y trabajamos de manera cercana para lograr los mejores resultados posibles."
+  },
+  {
+    "pregunta": "¿Tienen experiencia trabajando con empresas grandes?",
+    "respuesta": "Sí, hemos trabajado con empresas de distintos tamaños, desde startups hasta grandes corporaciones, ayudándoles a implementar soluciones de inteligencia artificial y análisis de datos que impulsan su éxito."
+  },
+  {
+    "pregunta": "¿Qué opinan sus clientes sobre sus servicios?",
+    "respuesta": "Nuestros clientes nos elogian por nuestra dedicación, capacidad de adaptación y la calidad de las soluciones que entregamos. Muchas veces nos eligen por nuestra atención personalizada y nuestra capacidad para entender y resolver sus necesidades tecnológicas."
+  },
+  {
+    "pregunta": "¿Qué diferencias existen entre un chatbot básico y uno avanzado?",
+    "respuesta": "Un chatbot básico puede manejar preguntas simples y respuestas predefinidas, mientras que un chatbot avanzado puede interactuar de manera más compleja, realizar análisis de sentimientos y adaptarse a cambios en el comportamiento del usuario."
+  },
+  {
+    "pregunta": "¿Ofrecen algún tipo de capacitación sobre el uso de los chatbots?",
+    "respuesta": "Sí, ofrecemos capacitación a nuestros clientes sobre cómo utilizar y administrar sus chatbots. La capacitación se adapta a las necesidades del cliente, y puede incluir desde una introducción básica hasta entrenamientos más avanzados."
+  },
+  {
+    "pregunta": "¿Qué es la inteligencia artificial y cómo ayuda a mi negocio?",
+    "respuesta": "La inteligencia artificial permite a los sistemas aprender y adaptarse a las interacciones de los usuarios, lo que permite ofrecer respuestas más precisas y personalizadas. Esto mejora la experiencia del cliente y optimiza procesos en áreas como atención al cliente, ventas y análisis de datos."
+  },
+  {
+    "pregunta": "¿Qué tipo de empresas pueden beneficiarse de sus servicios?",
+    "respuesta": "Nuestras soluciones están diseñadas para todo tipo de empresas, desde pequeñas startups hasta grandes corporaciones. Sin embargo, los sectores que más se benefician de nuestros servicios incluyen el comercio electrónico, la atención al cliente, la educación y la salud."
+  },
+  {
+    "pregunta": "¿Qué valores tiene la empresa?",
+    "respuesta": "Nos guiamos por principios de integridad, innovación y compromiso. Trabajamos con pasión para ofrecer soluciones que realmente impacten positivamente a nuestros clientes, siempre con la misión de llevar la inteligencia artificial y el análisis de datos a más empresas."
+  }
+]
