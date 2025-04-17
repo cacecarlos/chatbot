@@ -1,0 +1,5 @@
+chatterbot
+chatterbot_corpus
+requests
+flask
+python-telegram-bot
